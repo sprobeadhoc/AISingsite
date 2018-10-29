@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: 'Roboto';
+  }
+
+
+  .navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
+
+.nav-item a {
+    color: black;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 10%;
+}
+
+.navbar-brand {
+    padding-left: 317px;
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: -28rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.translation {
+    padding-left: 108px;
+    color: black;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.jumbotron {
+    background-color: darkblue;
+    color: white;
+}
+
+
+
+
+  
