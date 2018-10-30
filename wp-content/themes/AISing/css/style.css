@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: 'Roboto';
+  }
+
+
+  .navbar-default {
+    background-color: white;
+    border-color: white;
+    font-family: 'Roboto';
+}
+
+.nav-item a {
+    color: black;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: 10%;
+}
+
+.navbar-brand {
+    padding-left: 317px;
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: -28rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.translation {
+    padding-left: 108px;
+    color: black;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+}
+
+.jumbotron {
+    background-color: #115dab;
+    color: white;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;
+}
+
+
+#menu-item-21 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+}
+
+#menu-item-22 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+    
+}
+
+#menu-item-23 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+}
+
+#menu-item-20 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+}
+
+
+
+
+
+
+  
