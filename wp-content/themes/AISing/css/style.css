@@ -5,8 +5,9 @@ body {
 
 
   .navbar-default {
-    background-color: #F8F8F8;
-    border-color: #E7E7E7;
+    background-color: white;
+    border-color: white;
+    font-family: 'Roboto';
 }
 
 .nav-item a {
@@ -45,9 +46,36 @@ body {
 }
 
 .jumbotron {
-    background-color: darkblue;
+    background-color: #115dab;
     color: white;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;
 }
+
+
+#menu-item-21 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+}
+
+#menu-item-22 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+    
+}
+
+#menu-item-23 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+}
+
+#menu-item-20 {
+    font-size: 1.4rem;
+    margin: 4px 8px;
+}
+
+
 
 
 
